@@ -9,7 +9,8 @@ Institutional messaging will be tracked over time and will be documented via Lon
 Textual Analysis may also be performed to track discussion points and birthpoints and popularization of some of the most impactful libraries and toolkits used in EEG analysis.
 
 Technologies Used:
-GNU Awk 5.1.0, API: 3.0
-Python 3.10.12
-Python Virtual Environment Packages can be found in the requirements.txt file in the root of this repository.
+- GNU Awk 5.1.0, API: 3.0
+- Python 3.10.12
+- Python Virtual Environment Packages can be found in the requirements.txt file in the root of this repository.
+
 My Brain, which as you will see in the resulting images and plots is an individual-based tool common amongst all us brain fanatics that we love to think and talk about tirelessly.
