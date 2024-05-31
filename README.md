@@ -14,3 +14,8 @@ Technologies Used:
 - Python Virtual Environment Packages can be found in the requirements.txt file in the root of this repository.
 
 My Brain, which as you will see in the resulting images and plots is an individual-based tool common amongst all us brain fanatics that we love to think and talk about tirelessly.
+
+As this project progresses, visualizations will be enhanced and improved.  Since cleaning and extraction has finally been settled and begun, here is an example output of the global map of detailed, neuroscience discussion in the year 2004.
+
+Example (2004 Communications):
+![](https://github.com/culliokw/HiveMind/blob/main/Maps/2004_communication.gif)
