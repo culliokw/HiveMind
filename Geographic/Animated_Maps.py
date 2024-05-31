@@ -26,7 +26,7 @@ def update(frame):
     ax.axis('off')
 
 countries = gpd.read_file(gpd.datasets.get_path("naturalearth_lowres"))
-df=pd.read_csv("2004_locations.csv",header=0)
+df=pd.read_csv("CLEANED YEAR LOCATION CSV FILENAME",header=0)
 df=df.dropna()
 df = df.reset_index()
 points = df.apply(lambda row: Point(row.Long, row.Lat), axis=1)
@@ -35,4 +35,4 @@ sites = gpd.GeoDataFrame(df, geometry=points)
 fig, ax = matplotlib.pyplot.subplots()
 ani = animation.FuncAnimation(fig=fig, func=update, frames=range(0,sites.shape[0]), init_func=init, interval=150, repeat=True, blit=False)
 
-ani.save(filename="2004_communication.gif", writer="pillow")
+ani.save(filename="OUTPUT YEAR FILENAME HERE.gif", writer="pillow")
