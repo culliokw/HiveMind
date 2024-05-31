@@ -12,8 +12,7 @@ Technologies Used:
 - GNU Awk 5.1.0, API: 3.0
 - Python 3.10.12
 - Python Virtual Environment Packages can be found in the requirements.txt file in the root of this repository.
-
-My Brain, which as you will see in the resulting images and plots is an individual-based tool common amongst all us brain fanatics that we love to think and talk about tirelessly.
+- My Brain, which as you will see in the resulting images and plots is an individual-based tool common amongst all us brain fanatics that we love to think and talk about tirelessly.
 
 As this project progresses, visualizations will be enhanced and improved.  Since cleaning and extraction has finally been settled and begun, here is an example output of the global map of detailed, neuroscience discussion in the year 2004.
 
