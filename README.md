@@ -16,5 +16,5 @@ Technologies Used:
 
 As this project progresses, visualizations will be enhanced and improved.  Since cleaning and extraction has finally been settled and begun, here is an example output of the global map of neuroscience discussion in the year 2004.
 
-Example (2004 Communications):
-![](https://github.com/culliokw/HiveMind/blob/main/Maps/2004_communication.gif)
+Example (2004-2005 Communications):
+![](https://github.com/culliokw/HiveMind/blob/main/Maps/communication.gif)
