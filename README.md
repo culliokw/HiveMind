@@ -16,5 +16,8 @@ Technologies Used:
 
 As this project progresses, visualizations will be enhanced and improved.  Since cleaning and extraction has finally been settled and begun, here is an example output of the global map of neuroscience discussion in the years 2004-2012.
 
-### 2004-2012 Communications:
-![](https://github.com/culliokw/HiveMind/blob/main/Maps/communication.gif)
+<h3 align="center">2004-2012 Communications:</h3>
+
+<p align="center">
+    <img width="640" height="480" src="https://github.com/culliokw/HiveMind/blob/main/Maps/communication.gif" alt="Communications Map">
+</p>
