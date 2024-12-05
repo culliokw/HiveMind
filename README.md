@@ -14,10 +14,24 @@ Technologies Used:
 - Python Virtual Environment Packages can be found in the requirements.txt file in the root of this repository.
 - My Brain, which as you will see in the resulting images and plots is an individual-based tool common amongst all us brain fanatics that we love to think and talk about tirelessly.
 
-As this project progresses, visualizations will be enhanced and improved.  Since cleaning and extraction has finally been settled and begun, here is the global map of all neuroscience discussion in the EEGLAB forums maintained by UCSD in the years 2004-2024 including annual totals.
+As this project progresses, visualizations will be enhanced and improved.  
+
+# Visualizations
+
+Since cleaning and extraction has finally been settled and begun, visualization work has begun and the resulting plots and maps from the 20 years of EEGLAB communications can be found in this section.
 
 <h3 align="center">All EEGLAB Forum Communications (2004-2024):</h3>
 
 <p align="center">
     <img width="640" height="480" src="https://github.com/culliokw/HiveMind/blob/main/Maps/communication.gif" alt="Communications Map">
+</p>
+
+<h3 align="center">Country Visualization Breakdowns:</h3>
+
+<p align="center">
+    <img width="640" height="480" src="https://github.com/culliokw/HiveMind/blob/main/Visualizations/All_Country_Messages.gif" alt="All Countries Messaging Bar Plot">
+</p>
+
+<p align="center">
+    <img width="640" height="480" src="https://github.com/culliokw/HiveMind/blob/main/Visualizations/Top_10_Country_Messages.gif" alt="Top 10 Countries Messaging Bar Plot">
 </p>
